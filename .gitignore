@@ -1,0 +1,9 @@
+__pycache__/
+
+# Ficheiros de backup
+*.bak
+*~
+
+# Ambientes virtuais
+.env/
+.venv/
